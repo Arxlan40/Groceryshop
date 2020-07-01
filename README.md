@@ -5,10 +5,14 @@
 * Support login with firebase, chat with any admin, buy item, add to cart, add to wishlist, update profile.
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/Arxlan40/GroceryShop/master/screenshot/1.jpg" height="50%" width="50%">
+Groceryshop
 <img src="https://raw.githubusercontent.com/Arxlan40/GroceryShop/master/screenshot/2.jpg" height="50%" width="50%">
+Splash Screen
+<img src="https://raw.githubusercontent.com/Arxlan40/GroceryShop/master/screenshot/2(2).jpg" height="50%" width="50%">
+Login Screen
+<img src="https://raw.githubusercontent.com/Arxlan40/GroceryShop/master/screenshot/1.jpg" height="50%" width="50%">
+Home Screen
 <img src="https://raw.githubusercontent.com/Arxlan40/GroceryShop/master/screenshot/3.jpg" height="50%" width="50%">
-<img src="https://raw.githubusercontent.com/Arxlan40/GroceryShop/master/screenshot/4.jpg" height="50%" width="50%">
 
 ## How to run
 * Clone this repo
